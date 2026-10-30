@@ -1,3 +1,4 @@
+// Base de datos temporal del restaurante
 export const mesas = [
   {
     numeroMesa: 1,
