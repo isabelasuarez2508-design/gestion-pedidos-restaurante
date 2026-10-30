@@ -1,0 +1,1 @@
+// operaciones.js - Módulo de Reglas de Negocio
